@@ -1,11 +1,12 @@
 # Machine-Learning-Tutorials
 A complete 13-week Machine Learning tutorial, featuring 12 weeks of concept-wise presentations and code examples, plus a revision module. Covers supervised, unsupervised learning and reinforcement learning with model evaluation, and key ML algorithms. Ideal for hands-on, curriculum-based learning.
-Here’s a `README.md` file tailored for your GitHub repository, combining technical clarity and a structured presentation with a strong academic tone:
+Below is a `README.md` file tailored for this GitHub repository, combining technical clarity and a structured presentation with a strong academic tone.
 
 ```markdown
 # Machine Learning Tutorial (NPTEL-Based)
 
-This repository contains a comprehensive 13-week tutorial series on Machine Learning, curated in alignment with the NPTEL course structure. It includes **12 weeks of detailed presentations** covering core ML concepts and **1 week of revision content**, along with well-documented Python code examples for practical implementation.
+This repository contains a comprehensive 13-week tutorial series on Machine Learning, curated in alignment with the NPTEL course structure.
+It includes 12 weeks of detailed presentations covering core ML concepts and 1 week of revision content, along with well-documented Python code examples for practical implementation.
 
 ## 📘 What’s Inside
 
